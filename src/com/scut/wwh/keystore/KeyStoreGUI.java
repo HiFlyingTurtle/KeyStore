@@ -91,8 +91,6 @@ public class KeyStoreGUI extends JFrame implements ActionListener{
         exportPubKeyButton.addActionListener(this);
 
 
-
-
         //login
         loginButton=new JButton("login");
         loginButton.setBounds(70,110,83,22);
